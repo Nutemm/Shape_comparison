@@ -2,8 +2,8 @@
 Scripts and pdf report of the INF555 class at Ecole Polytechnique
 
 This project consisted in the implementation of two research papers : 
-http://reuter.mit.edu/papers/reuter-shapeDNA06.pdf
-http://www.cs.jhu.edu/~misha/Fall07/Papers/Rustamov07.pdf
+- http://reuter.mit.edu/papers/reuter-shapeDNA06.pdf
+- http://www.cs.jhu.edu/~misha/Fall07/Papers/Rustamov07.pdf
 
 These two papers aim to create create a mapping between 3D shapes and vectors so that close shapes also correspond to close vectors.
 
